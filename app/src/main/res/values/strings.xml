@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OrientationTest</string>
+    <string name="switched_back_to_sensor">Switched back to sensor</string>
+</resources>
